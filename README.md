@@ -1,2 +1,2 @@
 # PythonLab
-This is a repository for the lab problems taught in MA 151. Here we can find Python files for the engineering calculus labs and files with the problems to be solved each week.
+This is a repository containing the lab problems for MA 151 taught in Fall 2021. There are 8 sets of lab problems and solutions. The solutions are Python files for the engineering calculus labs and the problems are related to material the students learned each week in class.
